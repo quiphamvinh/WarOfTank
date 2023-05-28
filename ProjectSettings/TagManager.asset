@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - SpeedUp
+  - Coin
+  - Heal
+  - Tank_Bullet
+  - JoystickMove
+  - JoystickTurrent
+  - Spawner
+  - Enemy_Bullet
+  - HealthBar
+  - KillCounter
+  - FirePoint
+  - EffectFire
+  - Boss_Bullet
+  - HealthBar_Enemy
+  - Coin200
+  - Audio
+  - Wall
+  - Boss
+  - HealthBar_Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Detail
+    uniqueID: 2486103083
+    locked: 0
+  - name: Front
+    uniqueID: 3871847421
+    locked: 0
+  - name: Base
+    uniqueID: 3578756041
+    locked: 0
+  - name: Turrent
+    uniqueID: 1302274535
+    locked: 0
+  - name: Effect
+    uniqueID: 3846919723
+    locked: 0
+  - name: UI
+    uniqueID: 1828782861
+    locked: 0

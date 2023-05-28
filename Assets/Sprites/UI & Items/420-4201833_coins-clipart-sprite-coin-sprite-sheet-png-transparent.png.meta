@@ -1,0 +1,300 @@
+fileFormatVersion: 2
+guid: 7204e547d21dfa3488f71a5938ed3ceb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 9
+        width: 119
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76040c2eb9a1f7241b5b6bc1759f1e7f
+      internalID: 622332938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_1
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 92
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21960bddc68c2a7429a0e95f31921d03
+      internalID: -373227841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 9
+        width: 56
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69bdfc1f8ab771478b8ed486e439e6d
+      internalID: 1906982355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 9
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fc77c8c5be9ed4fb05456b540c6554
+      internalID: 431432393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 9
+        width: 56
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb0f6bee70f2b74391d59889acb791e
+      internalID: 1376147991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_8
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 9
+        width: 90
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f0cccbb4a1154b981dbfd3d366def
+      internalID: -349770501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_0: 622332938
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_1: -373227841
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_10: 1959327091
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_11: -168272437
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_12: 908023170
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_13: -2070360846
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_14: 485601243
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_15: -45955137
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_16: 1949230501
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_17: -591914035
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_18: 1918401597
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_19: 1128038402
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_2: 1906982355
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_20: -744696916
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_21: 1914668738
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_22: -24577762
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_23: 349415370
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_24: -241271410
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_25: 847776782
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_26: 1191216748
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_27: 918306196
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_28: -711283550
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_29: 2013294732
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_3: 431432393
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_30: -2127563217
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_31: 2009728920
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_32: 619685795
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_33: -827922297
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_34: 2072504321
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_35: -1961272775
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_36: 2101610687
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_37: 163067992
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_38: 1297828507
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_4: 1376147991
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_5: 2104928842
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_6: -1344162170
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_7: 64851286
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_8: -349770501
+      420-4201833_coins-clipart-sprite-coin-sprite-sheet-png-transparent_9: -926317103
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
